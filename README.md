@@ -1,1 +1,1 @@
-# SQLZOO_Quiz
+# SQLZOO_Quiz_Solution
